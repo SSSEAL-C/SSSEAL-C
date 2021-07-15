@@ -17,7 +17,7 @@
 
 <br>
 
-### Platforms  
+## Platforms  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
@@ -29,7 +29,15 @@
 
 <br/>  
 
-
+## Projects
+<div align="center"> 
+<a href="https://ssseal-c.github.io/haza64-socials/" target="_blank">
+<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/735811f5-1a88-4640-8601-eec54dcff9cf-profile_image-600x600.png" width="50" height = "50" style="margin-bottom: 5px;" />
+  <a href="https://ssseal-c.github.io/influencer-po-boxes/" target="_blank">
+<img src="https://po-boxes.cf/icons/android-chrome-512x512.png" width="50" height = "50" style="margin-bottom: 5px;" />
+</div>
+  
+  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/SSSEAL-C" target="_blank">
