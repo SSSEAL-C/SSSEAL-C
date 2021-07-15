@@ -33,8 +33,12 @@
 <div align="center"> 
 <a href="https://ssseal-c.github.io/haza64-socials/" target="_blank">
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/735811f5-1a88-4640-8601-eec54dcff9cf-profile_image-600x600.png" width="50" height = "50" style="margin-bottom: 5px;" />
-  <a href="https://ssseal-c.github.io/influencer-po-boxes/" target="_blank">
-<img src="https://po-boxes.cf/icons/android-chrome-512x512.png" width="50" height = "50" style="margin-bottom: 5px;" />
+<a href="https://ssseal-c.github.io/influencer-po-boxes/" target="_blank">
+<img src="https://ssseal-c.github.io/influencer-po-boxes/icons/android-chrome-512x512.png" width="50" height = "50" style="margin-bottom: 5px;" />
+<a href="https://ssseal-c.github.io/slur-detect/" target="_blank">
+<img src="https://i1.sndcdn.com/avatars-000655073348-xpew0x-original.jpg" width="50" height = "50" style="margin-bottom: 5px;" />
+  <a href="https://ssseal-c.github.io/KHX/" target="_blank">
+<img src="https://yt3.ggpht.com/-NBRv4hRMRqw/AAAAAAAAAAI/AAAAAAAAAAA/RHCM0uP8eEA/s0/photo.jpg=s0?imgmax=0" width="50" height = "50" style="margin-bottom: 5px;" />
 </div>
   
   
