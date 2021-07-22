@@ -1,5 +1,8 @@
 ### <div align="center">I'm Seal. I make cool stuff for everyone to use!</div>  
   
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SSSEAL-C&&style=flat-square" align="center" />
+</div>  
 
 - 🔭 I’m currently working on many things!  
   
@@ -59,23 +62,10 @@
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" /></div>  
-<div align = "right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" width="37%" alt="SSSEAL-C's Top Languages" align="right"></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" width="37%" alt="SSSEAL-C's Top Languages" align="right"></div>
 
 <br/>  
 
-
-## Profile Stats
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SSSEAL-C&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
