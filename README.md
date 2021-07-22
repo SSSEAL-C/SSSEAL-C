@@ -30,7 +30,9 @@
 </div>
 
 
-<br/>  
+<br/> 
+
+<br>
 
 ## Projects
 <div align="center"> 
@@ -48,6 +50,7 @@
 <img src="https://i.imgur.com/UYpcWI0.png" width="75" height = "50" style="margin-bottom: 5px;" />
 </div>
   
+      </br>
   
 ## Connect with me 
       
