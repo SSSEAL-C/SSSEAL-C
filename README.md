@@ -49,8 +49,7 @@
       <a href="https://ssseal-c.github.io/tweet-or-drink/" target="_blank" rel="noopener noreferrer">
 <img src="https://i.imgur.com/UYpcWI0.png" width="75" height = "50" style="margin-bottom: 5px;" />
 </div>
-  
-      </br>
+</br>
   
 ## Connect with me 
       
