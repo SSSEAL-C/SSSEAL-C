@@ -1,4 +1,4 @@
-### <div align="center">I'm Seal. I make cool stuff for everyone to use!</div>  
+### I'm Seal. I make cool stuff for everyone to use! 
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SSSEAL-C&&style=flat-square" align="center" />
@@ -49,7 +49,8 @@
 </div>
   
   
-## Connect with me  
+## Connect with me 
+      
 <div align="center">
 <a href="https://github.com/SSSEAL-C" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
