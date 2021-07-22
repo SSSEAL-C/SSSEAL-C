@@ -1,4 +1,4 @@
-### I'm Seal. I make cool stuff for everyone to use! 
+### <div align="center">I'm Seal. I make cool stuff for everyone to use!<div/>
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SSSEAL-C&&style=flat-square" align="center" />
@@ -22,7 +22,7 @@
 
 <br>
 
-## Platforms  
+## <div align="center">Platforms<div/>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
@@ -36,7 +36,7 @@
 
 <br>
 
-## Projects
+## <div align="center">Projects<div/>
 <div align="center"> 
 <a href="https://ssseal-c.github.io/haza64-socials/" target="_blank" rel="noopener noreferrer">
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/735811f5-1a88-4640-8601-eec54dcff9cf-profile_image-600x600.png" width="50" height = "50" style="margin-bottom: 5px;" />
@@ -53,7 +53,7 @@
 <div/>
 <br/>
 
-## Connect with me 
+## <div align="center">Connect with me<div/>
 <br>    
 <div align="center">
 <a href="https://github.com/SSSEAL-C" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@
 </br>  
 
 
-## Github Stats  
+## <div align="center">Github Stats<div/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" alt="SSSEAL-C's Stats"/></div>  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" width="37%" alt="SSSEAL-C's Top Languages" align="right"></div>
 
