@@ -59,11 +59,12 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
+<div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple" width="37%" alt="SSSEAL-C's Top Languages" align="center"></div>
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Profile Stats
   
 
 <br/>  
