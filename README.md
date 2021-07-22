@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" alt="SSSEAL-C's Stats"/></div>  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" width="37%" alt="SSSEAL-C's Top Languages" align="right"></div>
 
 <br/>  
