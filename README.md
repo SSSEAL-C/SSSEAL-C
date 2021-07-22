@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=SSSEAL-C&&style=flat-square" align="center" />
 </div>  
 
-<br></br>
+<br>
 
 - 🔭 I’m currently working on many things!  
   
@@ -52,9 +52,9 @@
 <img src="https://i.imgur.com/UYpcWI0.png" width="75" height = "50" style="margin-bottom: 5px;" />
 <div/>
 <br/>
-
+<br>
 ## <div align="center">Connect with me<div/>
-<br>    
+    
 <div align="center">
 <a href="https://github.com/SSSEAL-C" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -64,7 +64,7 @@
 
 </br>  
 
-
+<br>
 ## <div align="center">Github Stats<div/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" alt="SSSEAL-C's Stats"/></div>  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" width="37%" alt="SSSEAL-C's Top Languages" align="right"></div>
