@@ -94,7 +94,7 @@
             <h2 id="github-stats">Github Stats</h2>
             <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=SSSEAL-C&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=midnight-purple" align="left" alt="SSSEAL-C's Stats"></div>
             <div align="right">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&amp;show_icons=true&amp;hide_border=true&amp;theme=midnight-purple" width="37%" alt="SSSEAL-C's Top Languages" align="right">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSEAL-C&amp;show_icons=true&amp;hide_border=true&amp;theme=midnight-purple&layout=compact;" width="37%" alt="SSSEAL-C's Top Languages" align="right">
             </div>
         </a>
     </section>
