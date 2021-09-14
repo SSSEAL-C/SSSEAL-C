@@ -43,7 +43,7 @@
 <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-
+<script>alert('test')</script>
 <div class="wrapper">
 <header>
     <h1><a href="https://ssseal-c.xyz/">SSSEAL-C</a></h1>
