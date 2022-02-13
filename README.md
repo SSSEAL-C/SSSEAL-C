@@ -29,9 +29,9 @@
 
 <meta property="og:locale" content="en_US">
 
-<link rel="canonical" href="https://ssseal-c.xyz/">
+<link rel="canonical" href="https://seall.dev/">
 
-<meta property="og:url" content="http://ssseal-c.xyz/">
+<meta property="og:url" content="http://seall.dev/">
 
 <meta property="og:site_name" content="SSSEAL-C">
 
@@ -46,7 +46,7 @@
     <![endif]-->
 <div class="wrapper">
 <header>
-    <h1><a href="https://ssseal-c.xyz/">SSSEAL-C</a></h1>
+    <h1><a href="https://seall.dev/">SSSEAL-C</a></h1>
     <p></p><p class="view">
     <a href="https://github.com/SSSEAL-C/SSSEAL-C">View the Project on GitHub <small>SSSEAL-C/SSSEAL-C</small></a>
     </p>
