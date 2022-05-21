@@ -68,6 +68,8 @@
             </li><li>
             <p>⚡ Fun fact: I use tabs over spaces</p>
             </li></ul>
+        <h2 id="trophies">Trophies</h2>
+        <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssseal-c" alt="trophy"></a></p>
         <h2 id="platforms">Platforms</h2>
         <div align="center">
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50">
